@@ -1,0 +1,159 @@
+body{
+    background-size:100%;
+    background-image: url("https://i.pinimg.com/originals/44/44/10/4444106f8e5fd6cd2a654b5a31fb0941.jpg");
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
+.introline{
+    color:white;
+    text-align: center;
+    font-size: xx-large;
+}
+.navbartype{
+    background-color:#E6E6E6;
+    width:100%;
+    position: absolute;
+    top:0;
+    left:0;
+    
+}
+.left{
+    display:inline-block;
+}
+.leftmost{
+    display:inline-block;
+    width:150px;
+    margin-left:0;
+    color:#316B83;
+    font-size: larger;
+    background-color: #CEE5D0;
+    text-align: center;
+    
+}
+.rightmost{
+    display: inline-block;
+    position: absolute;
+    right:0;
+    top: 9px;
+    width:100px;
+    margin:auto 0 auto 5px;
+    padding:0;
+    border:0;
+    font-size: larger;
+    
+   
+}
+.abtus{
+    display:inline-block;
+}
+.logout {
+    color: white;
+    position: absolute;
+    right: 120px;
+    top: 9px;
+    font-size: larger;
+    
+}
+.openline {
+    position: absolute;
+    top: 100px;
+    color: white;
+    font-size: xxx-large;
+    width:100%;
+    /*background-color: #345B63;*/
+    font-family: Verdana, Geneva, Tahoma, serif;
+    background: rgba(red, green, blue, alpha);
+       background: rgba(204, 204, 204, 0.5); 
+}
+
+.twoimg {
+    position: absolute;
+    top: 300px;
+    left: 100px;
+    width: 500px;
+    border-radius:80px;
+}
+.fourimg{
+    position: absolute;
+    top:300px;
+    left:700px;
+    height:280px;
+    width:560px;
+    border-radius:70px;
+    
+}
+a:hover {
+    background-color:#D7E9F7;
+  }
+img:hover{
+    background-color: #D7E9F7;
+}
+.twheel{
+    color:white;
+    position: absolute;
+    top: 600px;
+    left: 270px;
+    font-size: larger;
+}
+.fwheel{
+    color:white;
+    position: absolute;
+    top: 600px;
+    left: 900px;
+    font-size: larger;
+}
+.view{
+    
+    color: #D7E9F7;
+    background-color: #FF7777;
+    display: inline-block;
+    position: absolute;
+    top: 1px;
+    right: 200px;
+    height: 43px;
+    width: 70px;
+    text-align: center;
+    
+  }
+  .CancelBooking{
+    color: #D7E9F7;
+    background-color: #FF7777;
+    display: inline-block;
+    position: absolute;
+    top: 1px;
+    right: 300px;
+    height: 43px;
+    width: 70px;
+    text-align: center;
+  }
+  .menu{
+      text-align: center;
+      /* display:inline-block;
+      margin-left:auto;
+      margin-right:auto; */
+      font-size: larger;
+      width:100%;
+      background-color:white;
+      position: absolute;
+      top: 710px;
+      /* color:white; */
+       background: rgba(red, green, blue, alpha);
+       background: rgba(204, 204, 204, 0.5); 
+        
+    
+  }
+  .content{
+      margin-left:auto;
+      margin-right:auto;
+      background-color: #D7E9F7;
+      border-style: double;
+      border-radius: 15px;
+  }
+  .avail{
+      font-size: larger;
+      background-color: #FF7777;
+      font-weight: bold;
+      color: #A9E4D7;
+  }
