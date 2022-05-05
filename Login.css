@@ -1,0 +1,47 @@
+.container{
+  display: inline-block;
+  width: 300px;
+  border-style: ridge;
+  position: relative;
+  right: 5px;
+  top: 0;
+  background-color: white;
+  margin-right: 2px;
+  border-radius: 20px;
+  background-color: #D7E9F7;
+  }
+  .sub{
+    position:relative;
+    left:180px;
+    height:50px;
+    width:90px;
+  
+  }
+  .welcome{
+    position:absolute;
+    left:420px;
+    top:50px;
+    /* text-decoration: underline; */
+    font-size: 60px;
+    background-color:#FFEFBC;
+    border-radius: 15px;
+    text-align: center;
+  }
+  .reg{
+    position: absolute;
+    margin:auto;
+    top:0;
+    background-color: #FFEFBC;
+    right:5px;
+  }
+  
+  body{
+    background-image: url("https://cars.usnews.com/images/article/202011/128716/6_2020__chevy_impala.jpg");
+    background-size: 100%;
+  }
+  
+  .signup{
+    position: absolute;
+    left:5px;
+    bottom:10px;
+  }
