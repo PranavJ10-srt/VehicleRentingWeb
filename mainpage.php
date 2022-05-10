@@ -102,12 +102,14 @@
                 <td>45</td>
                 <td>400</td>
             </tr>
+             
             <tr>
                 <td>80</td>
                 <td>Pleasure</td>
                 <td>40</td>
                 <td>300</td>
             </tr>
+             
             <tr>
                 <td>90</td>
                 <td>Vespa</td>
