@@ -76,6 +76,8 @@ require('Config.php');
       </table>
       <input  class="sub" type="submit" name="Submit" value="Submit" width="20px">
       <!-- <input class="signup" type="submit" name="Signup" value="NewUser?" width="20px" /> -->
+          
+          
     </form>
     </div>
     
