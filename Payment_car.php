@@ -70,6 +70,7 @@ require('Config.php');
           <td><input type="text" name="model" placeholder="modelnumber"/></td>
         </tr>
         <tr>
+              
           <td><label>Mode of Payment:</label></td>
           <td><input type="text" name="mode" placeholder="Card/Cash"/></td>
         </tr>
@@ -77,6 +78,8 @@ require('Config.php');
       <input  class="sub" type="submit" name="Submit" value="Submit" width="20px">
       <!-- <input class="signup" type="submit" name="Signup" value="NewUser?" width="20px" /> -->
     </form>
+          
+          
     </div>
     
 </body>
