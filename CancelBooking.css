@@ -1,0 +1,32 @@
+body{
+    background-size:100%;
+    background-image: url("https://i.pinimg.com/originals/44/44/10/4444106f8e5fd6cd2a654b5a31fb0941.jpg");
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+.cancelfield{
+    margin:auto;
+    padding: 10px;
+    text-align: center;
+    background-color: whitesmoke;
+}
+.lb{
+    margin:10px;
+}
+table{
+    display: inline-block;
+    align-self: center;
+    text-align: center;
+}
+
+.buttn{
+    position: absolute;
+    top: 300px;
+    right: 700;
+}
+.check{
+    color:white;
+}
