@@ -1,0 +1,83 @@
+.bookingdetails{
+    position: absolute;
+    background-color: #F9E4C8;
+    top:200px;
+    /* width:100%; */
+}
+body{
+    background-image: url("https://i.pinimg.com/originals/44/44/10/4444106f8e5fd6cd2a654b5a31fb0941.jpg");
+    background-size:100%;
+    z-index:-1;
+}
+.navbartype{
+    background-color:#E6E6E6;
+    width:100%;
+    position: absolute;
+    top:0;
+    left:0;
+    
+}
+.left{
+    display:inline-block;
+}
+.leftmost{
+    display:inline-block;
+    width:150px;
+    margin-left:10px;
+    color:#316B83;
+    font-size: larger;
+    
+}
+.rightmost{
+    display: inline-block;
+    position: absolute;
+    right:0;
+    top: 9px;
+    width:100px;
+    margin:auto 0 auto 5px;
+    padding:0;
+    border:0;
+    font-size: larger;
+   
+}
+.abtus{
+    display:inline-block;
+}
+.logout {
+    color: white;
+    position: absolute;
+    right: 120px;
+    top: 9px;
+    font-size: larger;
+    
+}
+.sub {
+    position: relative;
+    left: 300px;
+}
+h1{
+    position: absolute;
+    color:white;
+    bottom:100px;
+}
+.heading{
+    text-align : center;
+    background-color: #345B63;
+    position: absolute;
+    top: 40px;
+    height: 50px;
+    width: 100%;
+}
+.pay{
+    
+    color: #D7E9F7;
+    background-color: #FF7777;
+    display: inline-block;
+    position: absolute;
+    top: 1px;
+    right: 200px;
+    height: 43px;
+    width: 70px;
+    text-align: center;
+    
+  }
