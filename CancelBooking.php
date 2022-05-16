@@ -52,10 +52,7 @@
                 </tr>
                 </table>
                 <input class="buttn" type="submit" name="CONFIRM" value="CONFIRM">              
-            
-                
-                
-            </form>
+          </form>
             
         </div>
     </body>
