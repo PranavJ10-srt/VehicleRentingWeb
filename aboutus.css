@@ -1,0 +1,12 @@
+body{
+    background-color: #3DB2FF;
+}
+.us{
+    display:inline-block;
+    position: absolute;
+    left:590px;
+    top:200px;
+    margin:auto;
+    align-self: center;
+    color:whitesmoke;
+}
